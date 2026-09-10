@@ -23,7 +23,7 @@
 
         nav {
             background-color: #173a5b;
-            padding: 15px;
+            padding: 20px;
             text-align: center;
         }
 
