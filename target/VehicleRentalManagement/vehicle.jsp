@@ -121,7 +121,15 @@
             <td>₹2,500</td>
 
         </tr>
+	<tr>
 
+            <td>V106</td>
+
+            <td>Maruthi</td>
+
+            <td>₹1,500</td>
+
+        </tr>
         <tr>
 
             <td>V103</td>
